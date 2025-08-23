@@ -40,4 +40,6 @@ h1{
  #user-list li:hover{
     background: #f0f0f0;
  }
-
+.hidden{
+   display: none;
+}
